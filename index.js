@@ -1,3 +1,4 @@
+"use strict";
 const Filter = require('broccoli-filter');
 
 const wabt = require('./vendor/libwabt.js');
