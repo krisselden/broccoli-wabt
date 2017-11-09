@@ -1,0 +1,20 @@
+{
+  "name": "broccoli-wabt",
+  "version": "1.0.0",
+  "description": "Compile wat to wasm",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "author": "Kris Selden",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "broccoli-filter": "^1.2.4"
+  },
+  "devDependencies": {
+    "broccoli": "^1.1.4",
+    "broccoli-test-helper": "^1.2.0",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
