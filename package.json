@@ -6,6 +6,17 @@
   "files": [
     "index.js"
   ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "homepage": "https://github.com/krisselden/broccoli-wabt",
+  "bugs": {
+    "url": "https://github.com/krisselden/broccoli-wabt/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisselden/broccoli-wabt.git"
+  },
   "author": "Kris Selden",
   "license": "Apache-2.0",
   "dependencies": {
