@@ -1,6 +1,6 @@
 {
   "name": "broccoli-wabt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compile wat to wasm",
   "main": "index.js",
   "files": [
