@@ -4,7 +4,8 @@
   "description": "Compile wat to wasm",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "vendor/libwabt.js"
   ],
   "scripts": {
     "test": "mocha"
